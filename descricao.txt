@@ -1,0 +1,2 @@
+APO 1 - Fazer um site com informações
+APO 2 - Utilizar bootstrap e aplicar grids para deixar responsivo.
